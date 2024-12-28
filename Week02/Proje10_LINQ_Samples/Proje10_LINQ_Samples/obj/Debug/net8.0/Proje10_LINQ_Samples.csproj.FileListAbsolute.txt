@@ -1,0 +1,14 @@
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/bin/Debug/net8.0/Proje10_LINQ_Samples
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/bin/Debug/net8.0/Proje10_LINQ_Samples.deps.json
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/bin/Debug/net8.0/Proje10_LINQ_Samples.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/bin/Debug/net8.0/Proje10_LINQ_Samples.dll
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/bin/Debug/net8.0/Proje10_LINQ_Samples.pdb
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/obj/Debug/net8.0/Proje10_LINQ_Samples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/obj/Debug/net8.0/Proje10_LINQ_Samples.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/obj/Debug/net8.0/Proje10_LINQ_Samples.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/obj/Debug/net8.0/Proje10_LINQ_Samples.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/obj/Debug/net8.0/Proje10_LINQ_Samples.dll
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/obj/Debug/net8.0/refint/Proje10_LINQ_Samples.dll
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/obj/Debug/net8.0/Proje10_LINQ_Samples.pdb
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/obj/Debug/net8.0/Proje10_LINQ_Samples.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/14-12-2024-Tekrar/Week02/Proje10_LINQ_Samples/Proje10_LINQ_Samples/obj/Debug/net8.0/ref/Proje10_LINQ_Samples.dll
