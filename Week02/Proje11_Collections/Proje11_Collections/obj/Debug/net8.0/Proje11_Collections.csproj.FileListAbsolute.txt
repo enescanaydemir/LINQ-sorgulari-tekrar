@@ -1,0 +1,15 @@
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/bin/Debug/net8.0/Proje11_Collections
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/bin/Debug/net8.0/Proje11_Collections.deps.json
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/bin/Debug/net8.0/Proje11_Collections.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/bin/Debug/net8.0/Proje11_Collections.dll
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/bin/Debug/net8.0/Proje11_Collections.pdb
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/Proje11_Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/Proje11_Collections.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/Proje11_Collections.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/Proje11_Collections.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/Proje11_Collections.sourcelink.json
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/Proje11_Collections.dll
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/refint/Proje11_Collections.dll
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/Proje11_Collections.pdb
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/Proje11_Collections.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/LINQ-sorgulari-tekrar/Week02/Proje11_Collections/Proje11_Collections/obj/Debug/net8.0/ref/Proje11_Collections.dll
